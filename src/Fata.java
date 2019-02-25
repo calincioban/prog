@@ -10,7 +10,10 @@ public void hraneste(){
 public void distreaza(){
     System.out.println("distreaza cainele");
             }
-public void bate(){
+
+    public void sejoaca(){
+        System.out.println("bate caine");
+
     System.out.println("bate caine");
 }
 }
